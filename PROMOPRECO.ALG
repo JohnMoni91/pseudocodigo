@@ -11,4 +11,4 @@ Inicio
 
     Escreval("O preço promocional do produto é R$", promo)
 
-FimAlgoritmo
+Fimalgoritmo
