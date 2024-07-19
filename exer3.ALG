@@ -4,7 +4,6 @@ Var
    Nome1, Nome2, Nota1, Nota2: real
 
 Inicio
-
    Escreva("Digite o nome: ")
    leia(Nome1)
    Escreva("Digite a nota: ")
@@ -32,5 +31,4 @@ Inicio
          Escreval(Nome1, ": ", Nota1)
       Fimse
    Fimse
-
 Fimalgoritmo
