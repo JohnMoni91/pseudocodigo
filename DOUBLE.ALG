@@ -4,11 +4,9 @@ Var
     numero: inteiro
 
 Inicio
-
-    Escreva("Digite um número: ")
+    Escreva("Digite um nÃºmero: ")
     Leia(numero)
 
-    Escreval("Dobro de ", numero, " é ", numero * 2)
-    Escreval("A terça parte ", numero, " é ", numero / 3)
-
-FimAlgoritmo
+    Escreval("Dobro de ", numero, " Ã© ", numero * 2)
+    Escreval("A terÃ§a parte ", numero, " Ã© ", numero / 3)
+Fimalgoritmo
