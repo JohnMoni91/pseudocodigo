@@ -1,21 +1,20 @@
 algoritmo "salario"
 
-// seção de declarações
 var sal:real
 i,contador: inteiro
 
 inicio
-// seção dos comandos
+
 i<-0
 contador<-0
 
 para i de 1 ate 5 passo faca
-     escreva ("Digite o salario do funcionário", i, ": " )
+     escreva ("Digite o salario do funcionÃ¡rio", i, ": " )
      leia (sal)
      
      se sal>300 entao
         contador<-contador+1
      fimse
 fimpara
-escreval(contador, "Funcionários recebem salários superiores a R$300,00")
+escreval(contador, "FuncionÃ¡rios recebem salÃ¡rios superiores a R$300,00")
 fimalgoritmo
