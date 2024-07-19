@@ -8,5 +8,4 @@ inicio
  leia(farenheit)
  celsius <- 5 * (farenheit - 32) / 9
  escreval("celsius = ", celsius)
-
 fimalgoritmo
