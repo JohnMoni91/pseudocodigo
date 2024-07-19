@@ -10,5 +10,4 @@ Inicio
     promo <- precoog - (precoog * 0.05)
 
     Escreval("O preço promocional do produto é R$", promo)
-
 Fimalgoritmo
