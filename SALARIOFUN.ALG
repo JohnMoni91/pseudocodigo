@@ -5,11 +5,10 @@ Var
     salario: real
 
 Inicio
-
-    Escreva("Nome do funcionário: ")
+    Escreva("Nome do funcionÃ¡rio: ")
     Leia(nome)
-    Escreva("Salário do funcionário: ")
+    Escreva("SalÃ¡rio do funcionÃ¡rio: ")
     Leia(salario)
 
-    Escreva("O funcionário ", nome, " ganha no total de R$", salario, " em Junho.")
-FimAlgoritmo
+    Escreva("O funcionÃ¡rio ", nome, " ganha no total de R$", salario, " em Junho.")
+Fimalgoritmo
