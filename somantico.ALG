@@ -13,6 +13,6 @@ Inicio
 
     soma <- n1 + n2
 
-    Escreva("A soma entre ", n1, " e ", n2, " é igual a ", soma, ".")
+    Escreva("A soma entre ", n1, " e ", n2, " Ã© igual a ", soma, ".")
 
-FimAlgoritmo
+Fimalgoritmo
