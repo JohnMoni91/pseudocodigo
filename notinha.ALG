@@ -13,6 +13,6 @@ Inicio
 
     media <- (n1 + n2) / 2
 
-    Escreval("A média entre", n1, " e", n2, " é igual a", media)
+    Escreval("A mÃ©dia entre", n1, " e", n2, " Ã© igual a", media)
 
-FimAlgoritmo
+Fimalgoritmo
