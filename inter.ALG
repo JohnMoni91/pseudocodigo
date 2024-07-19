@@ -5,10 +5,10 @@ Var
 
 Inicio
 
-    Escreva("Digite um número: ")
+    Escreva("Digite um nÃºmero: ")
     Leia(numero)
 
-    Escreval("O antecessor de ", numero, " é ", numero - 1)
-    Escreval("O sucessor de ", numero, " é ", numero + 1)
+    Escreval("O antecessor de ", numero, " Ã© ", numero - 1)
+    Escreval("O sucessor de ", numero, " Ã© ", numero + 1)
 
-FimAlgoritmo
+Fimalgoritmo
