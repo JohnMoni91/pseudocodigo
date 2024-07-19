@@ -1,12 +1,11 @@
 Algoritmo "dis"
 
 Var
-    metros: real
-    km, hm, dam, dm, cm, mm: real
+    metros, km, hm, dam, dm, cm, mm: real
 
 Inicio
 
-    Escreva("Dist‚ncia em metros: ")
+    Escreva("Dist√¢ncia em metros: ")
     Leia(metros)
 
     km <- metros / 1000
@@ -16,7 +15,7 @@ Inicio
     cm <- metros * 100
     mm <- metros * 1000
 
-    Escreval("A dist‚ncia de ", metros, "m corresponde a:")
+    Escreval("A dist√¢ncia de ", metros, "m corresponde a:")
     Escreval(km:0:5, " Km")
     Escreval(hm:0:4, " Hm")
     Escreval(dam:0:3, " Dam")
