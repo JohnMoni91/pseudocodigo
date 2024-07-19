@@ -16,5 +16,4 @@ Inicio
 
     Escreval("A área a ser pintada é ", area, " metros quadrados.")
     Escreval("A quantidade de tinta necessária é ", litrosTinta, " litros.")
-
-FimAlgoritmo
+Fimalgoritmo
