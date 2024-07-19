@@ -6,11 +6,10 @@ Var
 Inicio
     taxa <- 5.58
 
-    Escreva("Quantos reais você tem?: ")
+    Escreva("Quantos reais vocÃª tem?: ")
     Leia(reais)
 
     dolar <- reais / taxa
 
-    Escreval("Com R$", reais, " você pode comprar US$", dolar, ".")
-
-FimAlgoritmo
+    Escreval("Com R$", reais, " vocÃª pode comprar US$", dolar, ".")
+Fimalgoritmo
