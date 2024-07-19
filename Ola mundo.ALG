@@ -4,5 +4,4 @@ Var
 
 Inicio
    Escreval ("Olá mundo!")
-
 Fimalgoritmo
