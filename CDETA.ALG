@@ -16,5 +16,4 @@ Inicio
     Delta <- (B * B) - (4 * A * C)
 
     Escreval("O valor de Delta é ", Delta)
-
 Fimalgoritmo
