@@ -1,8 +1,7 @@
 Algoritmo "Notas"
 
 Var
-   Nome1, Nome2: real
-   Nota1, Nota2: real
+   Nome1, Nome2, Nota1, Nota2: real
 
 Inicio
 
@@ -18,16 +17,16 @@ Inicio
 
    Escreva()
    Escreva("Os tops")
-   Se (Nota1 >= Nota2) e (Nota2 >= Nota1) ent„o
+   Se (Nota1 >= Nota2) e (Nota2 >= Nota1) ent√£o
       Escreval(Nome1, ": ", Nota1)
-      Se (Nota2 >= Nota1) ent„o
+      Se (Nota2 >= Nota1) ent√£o
          Escreval(Nome2, ": ", Nota2)
       Senao
          Escreval(Nome2, ": ", Nota2)
       Fimse
-   Senao Se (Nota2 >= Nota1) e (Nota2 >= Nota1) ent„o
+   Senao Se (Nota2 >= Nota1) e (Nota2 >= Nota1) ent√£o
       Escreval(Nome2, ": ", Nota2)
-      Se (Nota1 >= Nota2) ent„o
+      Se (Nota1 >= Nota2) ent√£o
          Escreval(Nome1, ": ", Nota1)
       Senao
          Escreval(Nome1, ": ", Nota1)
