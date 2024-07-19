@@ -4,7 +4,6 @@ var sal:real
 i,contador: inteiro
 
 inicio
-
 i<-0
 contador<-0
 
