@@ -4,11 +4,11 @@ Var
     precoog, promo: real
 
 Inicio
-    Escreva("Digite o preço original do produto: ")
+    Escreva("Coloque o preÃ§o original do produto: ")
     Leia(precoog)
 
     promo <- precoog - (precoog * 0.05)
 
-    Escreval("O preço promocional do produto é R$", promo)
+    Escreval("O preÃ§o promocional do produto Ã© R$", promo)
 
 FimAlgoritmo
