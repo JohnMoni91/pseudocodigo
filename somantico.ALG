@@ -4,7 +4,6 @@ Var
     n1, n2, soma: inteiro
 
 Inicio
-
     Escreva("Valor 1: ")
     Leia(n1)
 
